@@ -1,7 +1,7 @@
 print("===Program login===")
 
-username_benar = "kiranadwivaninda"
-password_benar = "2410931005"
+username_benar = "kirana"
+password_benar = "123456"
 kesempatan = 3
 
 for _ in range(3) :
