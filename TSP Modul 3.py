@@ -1,5 +1,5 @@
-pin = 931005
-saldo_awal = 2410931005
+pin = 9310
+saldo_awal = 2410
 
 for i in range(3) :
     pin_masuk = int(input("Input pin anda = ")) 
